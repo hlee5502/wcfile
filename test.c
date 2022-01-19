@@ -1,7 +1,6 @@
-#include "challenge.h"
+#include "wcfile.h"
 
-// main function for non-test code
-// This exists solely for the benefit of the students to test their own code
+// For testing purposes (didn't implement)
 int main(int argc, char** argv) {
   if (argc != 3) {
     printf("Wrong number of arguments, should be:\n");
