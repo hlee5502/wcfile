@@ -1,5 +1,5 @@
 # wcfile
-goal: read equations from a file and write them in a solved state to another file
+The function in wcfile.c reads equations from a file and write them in a solved state to another file
 
 qfile is the file with math questions to solve
 
