@@ -4,9 +4,8 @@
 #ifndef CH_HEAD
 #define CH_HEAD
 
-// goal: read equations from a file and write them in a solved state to another
-// file
-//   NOTE: format details specified in instructions
+// solve function reasd equations from a file and writes them in a solved state to another file
+
 // param qfile: file with math questions to solve
 // param afile: file to write equations with answers in
 // example:
